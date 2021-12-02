@@ -1,0 +1,35 @@
+.hove:hover{
+    
+    border: 5px;
+    width: 25px;
+    cursor:pointer;
+    
+}
+.hove td:hover{ 
+    /* background-color: yellow; */
+    /* color:red; */
+    text-decoration: underline;
+    text-decoration-color:yellow;
+    text-decoration-thickness:5px;
+    border-radius:50px;
+}
+td{
+    color: white;
+}
+    
+
+
+button:hover{
+    background-color:greenyellow;
+    color:red;
+    
+}
+.t1 td{
+    color:black;
+    font-size: 25px;
+}
+.bg{
+    background-color: rgba(0, 0, 0,0.5);
+    width:1540px;
+    height: 820px;;;
+}
